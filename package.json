@@ -23,7 +23,7 @@
   },
   "engines": {
     "node": "8.11.4"
-  }
+  },
   "meteor": {
     "mainModule": {
       "client": "client/main.js",
